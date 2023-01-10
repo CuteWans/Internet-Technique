@@ -1,0 +1,33 @@
+﻿生成启动时间为 2020-12-20 19:59:47。
+     1>项目“F:\Codes\My_Wangji\task3_2\task3_2\task3_2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\task3_2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IE:\MyDownload\WpdPack\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /D WPCAP /D HAVE_REMOTE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\task3_2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt task3_2Dlg.cpp
+         task3_2Dlg.cpp
+     1>f:\codes\my_wangji\task3_2\task3_2\task3_2dlg.cpp(609): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Codes\My_Wangji\task3_2\Debug\task3_2.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\MyDownload\WpdPack\Lib wpcap.lib ws2_32.lib /MANIFEST /ManifestFile:"Debug\task3_2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Codes\My_Wangji\task3_2\Debug\task3_2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Codes\My_Wangji\task3_2\Debug\task3_2.lib" /MACHINE:X86 Debug\task3_2.res
+         Debug\task3_2.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\task3_2.obj
+         Debug\task3_2Dlg.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\task3_2.exe.embed.manifest" /manifest Debug\task3_2.exe.intermediate.manifest "d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         task3_2.vcxproj -> F:\Codes\My_Wangji\task3_2\Debug\task3_2.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\task3_2.unsuccessfulbuild”。
+         正在对“Debug\task3_2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\Codes\My_Wangji\task3_2\task3_2\task3_2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.96
